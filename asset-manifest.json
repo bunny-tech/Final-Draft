@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Final-Draft/static/css/main.e6c13ad2.css",
+    "main.js": "/Final-Draft/static/js/main.d36f87f6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Final-Draft/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/Final-Draft/index.html",
+    "main.e6c13ad2.css.map": "/Final-Draft/static/css/main.e6c13ad2.css.map",
+    "main.d36f87f6.js.map": "/Final-Draft/static/js/main.d36f87f6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Final-Draft/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d36f87f6.js"
+  ]
+}
